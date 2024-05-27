@@ -1,0 +1,55 @@
+A random number is generated.
+--------------------
+(To exit the game, press ENTER directly)
+Enter a integer number between 1 and 100 to guess:
+Your Guess: 1
+Your number is smaller than the generated number.
+Press Enter to Continue... 55
+--------------------
+(To exit the game, press ENTER directly)
+Enter a integer number between 1 and 100 to guess:
+Your Guess: 55
+Your number is larger than the generated number.
+Press Enter to Continue...
+--------------------
+(To exit the game, press ENTER directly)
+Enter a integer number between 1 and 100 to guess:
+Your Guess: 30
+Your number is smaller than the generated number.
+Press Enter to Continue...
+--------------------
+(To exit the game, press ENTER directly)
+Enter a integer number between 1 and 100 to guess:
+Your Guess: 35
+Your number is smaller than the generated number.
+Press Enter to Continue...
+--------------------
+(To exit the game, press ENTER directly)
+Enter a integer number between 1 and 100 to guess:
+Your Guess: 40
+Your number is smaller than the generated number.
+Press Enter to Continue...
+--------------------
+(To exit the game, press ENTER directly)
+Enter a integer number between 1 and 100 to guess:
+Your Guess: 45
+Your number is larger than the generated number.
+Press Enter to Continue...
+--------------------
+(To exit the game, press ENTER directly)
+Enter a integer number between 1 and 100 to guess:
+Your Guess: 43
+Your number is larger than the generated number.
+Press Enter to Continue...
+--------------------
+(To exit the game, press ENTER directly)
+Enter a integer number between 1 and 100 to guess:
+Your Guess: 42
+Your number is larger than the generated number.
+Press Enter to Continue...
+--------------------
+(To exit the game, press ENTER directly)
+Enter a integer number between 1 and 100 to guess:
+Your Guess: 41
+The random number is 41.
+Congraduation! You got the right number!
